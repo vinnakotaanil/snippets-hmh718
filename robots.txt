@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vinnakotaanil.github.io/snippets-hmh718/sitemap.xml
